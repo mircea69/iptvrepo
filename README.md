@@ -64,7 +64,8 @@ https://iptv-org.github.io/iptv/countries/cw.m3u
 https://iptv-org.github.io/iptv/countries/cy.m3u	
 🇨🇿 Czech Republic	18	
 https://iptv-org.github.io/iptv/countries/cz.m3u	http://epg.streamstv.me/epg/guide-cz.xml.gz
-🇨🇩 Democratic Republic of the Congo	1	https://iptv-org.github.io/iptv/countries/cd.m3u	
+🇨🇩 Democratic Republic of the Congo	1	
+https://iptv-org.github.io/iptv/countries/cd.m3u	
 🇩🇰 Denmark	14	
 https://iptv-org.github.io/iptv/countries/dk.m3u	
 🇩🇴 Dominican Republic	25	
