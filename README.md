@@ -15,11 +15,14 @@ https://iptv-org.github.io/iptv/countries/am.m3u
 🇦🇼 Aruba	3	
 https://iptv-org.github.io/iptv/countries/aw.m3u	
 🇦🇺 Australia	15	
-https://iptv-org.github.io/iptv/countries/au.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/au.m3u	
+http://i.mjh.nz/nzau/epg.xml.gz
 🇦🇹 Austria	16	
-https://iptv-org.github.io/iptv/countries/at.m3u	http://epg.streamstv.me/epg/guide-austria.xml.gz
+https://iptv-org.github.io/iptv/countries/at.m3u	
+http://epg.streamstv.me/epg/guide-austria.xml.gz
 🇦🇿 Azerbaijan	11	
-https://iptv-org.github.io/iptv/countries/az.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/az.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇧🇭 Bahrain	8	
 https://iptv-org.github.io/iptv/countries/bh.m3u	
 🇧🇩 Bangladesh	5	
@@ -27,13 +30,15 @@ https://iptv-org.github.io/iptv/countries/bd.m3u
 🇧🇧 Barbados	1	
 https://iptv-org.github.io/iptv/countries/bb.m3u	
 🇧🇾 Belarus	11	
-https://iptv-org.github.io/iptv/countries/by.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/by.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇧🇪 Belgium	24	
 https://iptv-org.github.io/iptv/countries/be.m3u	
 🇧🇴 Bolivia	10	
 https://iptv-org.github.io/iptv/countries/bo.m3u	
 🇧🇦 Bosnia and Herzegovina	3	
-https://iptv-org.github.io/iptv/countries/ba.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+https://iptv-org.github.io/iptv/countries/ba.m3u	
+http://epg.streamstv.me/epg/guide-exyu.xml.gz
 🇧🇷 Brazil	123	
 https://iptv-org.github.io/iptv/countries/br.m3u	
 🇧🇳 Brunei	3	
@@ -47,23 +52,27 @@ https://iptv-org.github.io/iptv/countries/kh.m3u
 🇨🇲 Cameroon	5	
 https://iptv-org.github.io/iptv/countries/cm.m3u	
 🇨🇦 Canada	30	
-https://iptv-org.github.io/iptv/countries/ca.m3u	http://epg.streamstv.me/epg/guide-canada.xml.gz
+https://iptv-org.github.io/iptv/countries/ca.m3u	
+http://epg.streamstv.me/epg/guide-canada.xml.gz
 🇨🇱 Chile	39	
 https://iptv-org.github.io/iptv/countries/cl.m3u	
 🇨🇳 China	1014	
-https://iptv-org.github.io/iptv/countries/cn.m3u	http://epg.51zmt.top:8000/e.xml.gz
+https://iptv-org.github.io/iptv/countries/cn.m3u	
+http://epg.51zmt.top:8000/e.xml.gz
 🇨🇴 Colombia	20	
 https://iptv-org.github.io/iptv/countries/co.m3u	
 🇨🇷 Costa Rica	9	
 https://iptv-org.github.io/iptv/countries/cr.m3u	
 🇭🇷 Croatia	14	
-https://iptv-org.github.io/iptv/countries/hr.m3u	http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml
+https://iptv-org.github.io/iptv/countries/hr.m3u	
+http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml
 🇨🇼 Curaçao	3	
 https://iptv-org.github.io/iptv/countries/cw.m3u	
 🇨🇾 Cyprus	14	
 https://iptv-org.github.io/iptv/countries/cy.m3u	
 🇨🇿 Czech Republic	18	
-https://iptv-org.github.io/iptv/countries/cz.m3u	http://epg.streamstv.me/epg/guide-cz.xml.gz
+https://iptv-org.github.io/iptv/countries/cz.m3u	
+http://epg.streamstv.me/epg/guide-cz.xml.gz
 🇨🇩 Democratic Republic of the Congo	1	
 https://iptv-org.github.io/iptv/countries/cd.m3u	
 🇩🇰 Denmark	14	
@@ -111,11 +120,13 @@ https://iptv-org.github.io/iptv/countries/hn.m3u
 🇭🇰 Hong Kong	20	
 https://iptv-org.github.io/iptv/countries/hk.m3u	
 🇭🇺 Hungary	18	
-https://iptv-org.github.io/iptv/countries/hu.m3u	http://epg.streamstv.me/epg/guide-hungry.xml.gz
+https://iptv-org.github.io/iptv/countries/hu.m3u	
+http://epg.streamstv.me/epg/guide-hungry.xml.gz
 🇮🇸 Iceland	3	
 https://iptv-org.github.io/iptv/countries/is.m3u	
 🇮🇳 India	153	
-https://iptv-org.github.io/iptv/countries/in.m3u	http://epg.streamstv.me/epg/guide-india.xml.gz
+https://iptv-org.github.io/iptv/countries/in.m3u	
+http://epg.streamstv.me/epg/guide-india.xml.gz
 🇮🇩 Indonesia	51	
 https://iptv-org.github.io/iptv/countries/id.m3u	
 🌎 International	77	
@@ -127,7 +138,8 @@ https://iptv-org.github.io/iptv/countries/iq.m3u
 🇮🇪 Ireland	3	
 https://iptv-org.github.io/iptv/countries/ie.m3u	
 🇮🇱 Israel	17	
-https://iptv-org.github.io/iptv/countries/il.m3u	http://epg.streamstv.me/epg/guide-israel.xml.gz
+https://iptv-org.github.io/iptv/countries/il.m3u	
+http://epg.streamstv.me/epg/guide-israel.xml.gz
 🇮🇹 Italy	142	
 https://iptv-org.github.io/iptv/countries/it.m3u	
 🇨🇮 Ivory Coast	3	
@@ -139,7 +151,8 @@ https://iptv-org.github.io/iptv/countries/jp.m3u
 🇯🇴 Jordan	7	
 https://iptv-org.github.io/iptv/countries/jo.m3u	
 🇰🇿 Kazakhstan	24	
-https://iptv-org.github.io/iptv/countries/kz.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/kz.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇰🇪 Kenya	2	
 https://iptv-org.github.io/iptv/countries/ke.m3u	
 🇽🇰 Kosovo	10	
@@ -151,7 +164,8 @@ https://iptv-org.github.io/iptv/countries/kg.m3u
 🇱🇦 Laos	4	
 https://iptv-org.github.io/iptv/countries/la.m3u	
 🇱🇻 Latvia	4	
-https://iptv-org.github.io/iptv/countries/lv.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/lv.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇱🇧 Lebanon	23	
 https://iptv-org.github.io/iptv/countries/lb.m3u	
 🇱🇾 Libya	8	
@@ -159,19 +173,23 @@ https://iptv-org.github.io/iptv/countries/ly.m3u
 🇱🇮 Liechtenstein	2	
 https://iptv-org.github.io/iptv/countries/li.m3u	
 🇱🇹 Lithuania	1	
-https://iptv-org.github.io/iptv/countries/lt.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/lt.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇱🇺 Luxembourg	2	
 https://iptv-org.github.io/iptv/countries/lu.m3u	
 🇲🇴 Macau	5	
 https://iptv-org.github.io/iptv/countries/mo.m3u	
 🇲🇾 Malaysia	21	
-https://iptv-org.github.io/iptv/countries/my.m3u	https://freeview.github.io/iptv/epg/tv.xml
+https://iptv-org.github.io/iptv/countries/my.m3u	
+https://freeview.github.io/iptv/epg/tv.xml
 🇲🇹 Malta	1	
-https://iptv-org.github.io/iptv/countries/mt.m3u	http://epg.streamstv.me/epg/guide-malta.xml.gz
+https://iptv-org.github.io/iptv/countries/mt.m3u	
+http://epg.streamstv.me/epg/guide-malta.xml.gz
 🇲🇽 Mexico	34	
 https://iptv-org.github.io/iptv/countries/mx.m3u	
 🇲🇩 Moldova	15	
-https://iptv-org.github.io/iptv/countries/md.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/md.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇲🇳 Mongolia	6	
 https://iptv-org.github.io/iptv/countries/mn.m3u	
 🇲🇪 Montenegro	4	
@@ -187,7 +205,8 @@ https://iptv-org.github.io/iptv/countries/np.m3u
 🇳🇱 Netherlands	57	
 https://iptv-org.github.io/iptv/countries/nl.m3u	
 🇳🇿 New Zealand	8	
-https://iptv-org.github.io/iptv/countries/nz.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/nz.m3u	
+http://i.mjh.nz/nzau/epg.xml.gz
 🇳🇮 Nicaragua	2	
 https://iptv-org.github.io/iptv/countries/ni.m3u	
 🇳🇬 Nigeria	3	
@@ -197,7 +216,8 @@ https://iptv-org.github.io/iptv/countries/kp.m3u
 🇲🇰 North Macedonia	10	
 https://iptv-org.github.io/iptv/countries/mk.m3u	
 🇳🇴 Norway	3	
-https://iptv-org.github.io/iptv/countries/no.m3u	http://epg.streamstv.me/epg/guide-norway.xml.gz
+https://iptv-org.github.io/iptv/countries/no.m3u	
+http://epg.streamstv.me/epg/guide-norway.xml.gz
 🇴🇲 Oman	5	
 https://iptv-org.github.io/iptv/countries/om.m3u	
 🇵🇰 Pakistan	43	
@@ -223,7 +243,8 @@ https://iptv-org.github.io/iptv/countries/qa.m3u
 🇷🇴 Romania	76	
 https://iptv-org.github.io/iptv/countries/ro.m3u	
 🇷🇺 Russia	236	
-https://iptv-org.github.io/iptv/countries/ru.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/ru.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇷🇼 Rwanda	5	
 https://iptv-org.github.io/iptv/countries/rw.m3u	
 🇰🇳 Saint Kitts and Nevis	3	
@@ -235,11 +256,13 @@ https://iptv-org.github.io/iptv/countries/sa.m3u
 🇸🇳 Senegal	1	
 https://iptv-org.github.io/iptv/countries/sn.m3u	
 🇷🇸 Serbia	8	
-https://iptv-org.github.io/iptv/countries/rs.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+https://iptv-org.github.io/iptv/countries/rs.m3u	
+http://epg.streamstv.me/epg/guide-exyu.xml.gz
 🇸🇱 Sierra Leone	1	
 https://iptv-org.github.io/iptv/countries/sl.m3u	
 🇸🇬 Singapore	8	
-https://iptv-org.github.io/iptv/countries/sg.m3u	https://freeview.github.io/iptv/epg/tv.xml
+https://iptv-org.github.io/iptv/countries/sg.m3u	
+https://freeview.github.io/iptv/epg/tv.xml
 🇸🇰 Slovakia	34	
 https://iptv-org.github.io/iptv/countries/sk.m3u	
 🇸🇮 Slovenia	6	
@@ -247,7 +270,8 @@ https://iptv-org.github.io/iptv/countries/si.m3u
 🇸🇴 Somalia	1	
 https://iptv-org.github.io/iptv/countries/so.m3u	
 🇿🇦 South Africa	1	
-https://iptv-org.github.io/iptv/countries/za.m3u	http://i.mjh.nz/za/DStv/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/za.m3u	
+http://i.mjh.nz/za/DStv/epg.xml.gz
 🇰🇷 South Korea	29	
 https://iptv-org.github.io/iptv/countries/kr.m3u	
 🇪🇸 Spain	94	
@@ -281,12 +305,15 @@ https://iptv-org.github.io/iptv/countries/tm.m3u
 🇺🇬 Uganda	1	
 https://iptv-org.github.io/iptv/countries/ug.m3u	
 🇺🇦 Ukraine	159	
-https://iptv-org.github.io/iptv/countries/ua.m3u	https://iptvx.one/epg/epg.xml.gz
+https://iptv-org.github.io/iptv/countries/ua.m3u	
+https://iptvx.one/epg/epg.xml.gz
 🇦🇪 United Arab Emirates	44	
 https://iptv-org.github.io/iptv/countries/ae.m3u	
 🇬🇧 United Kingdom	35	
 https://iptv-org.github.io/iptv/countries/uk.m3u	
-🇺🇸 United States	376	https://iptv-org.github.io/iptv/countries/us.m3u	http://epg.streamstv.me/epg/guide-usa.xml.gz
+🇺🇸 United States	376	
+https://iptv-org.github.io/iptv/countries/us.m3u	
+http://epg.streamstv.me/epg/guide-usa.xml.gz
 🇺🇾 Uruguay	4	
 https://iptv-org.github.io/iptv/countries/uy.m3u	
 🇻🇪 Venezuela	2	
